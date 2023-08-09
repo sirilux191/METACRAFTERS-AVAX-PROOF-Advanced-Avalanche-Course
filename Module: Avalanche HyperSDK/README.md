@@ -21,7 +21,7 @@ The aim of this project was to create a custom virtual machine (VM) using the Hy
 
 Here's a summary of the key steps I took to complete the project:
 
-1. **Cloning Initial Repository:** I began by cloning the provided initial repository, which laid the foundation for creating the custom virtual machine.
+1. **Cloning Initial Repository:** I began by cloning the provided initial [repository](https://github.com/metacrafters/tokenvm), which laid the foundation for creating the custom virtual machine.
 
 2. **Normalizing Dependencies:** To ensure smooth development, I used the `go mod tidy` command to normalize all project dependencies.
 
@@ -57,7 +57,7 @@ The project was completed using the following tools and technologies:
 
 To experience the functionality of the custom virtual machine and interact with the custom HyperChain, follow these steps:
 
-1. **Clone the Repository:** Start by cloning the project repository to your local machine.
+1. **Clone the Repository:** Start by cloning the project [repository](https://github.com/metacrafters/tokenvm) to your local machine.
 
 2. **Normalize Dependencies:** Run `go mod tidy` inside the project folder to ensure all dependencies are properly set up.
 

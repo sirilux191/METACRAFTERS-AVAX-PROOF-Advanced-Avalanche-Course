@@ -72,5 +72,5 @@ This project was created by [MetaCrafter Sirilux](https://twitter.com/AadityaCha
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](../LICENSE).
 
